@@ -6,6 +6,7 @@ A Python-based autonomous navigation framework for **GPS-denied drone environmen
 
 The system estimates local drone motion using a monocular/RGB-D camera and IMU, then corrects long-term drift using known landmarks, geo-referenced maps, fiducial markers, UWB anchors, RF beacons, or visual place recognition.
 
+![](https://github.com/1Px-Vision/VIO_Geo_Location/blob/main/Geo_navigation.gif)
 ---
 
 ## Overview
