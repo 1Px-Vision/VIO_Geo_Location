@@ -20,6 +20,34 @@ In GPS-denied environments, drones cannot rely on satellite positioning. This pr
 
 The main objective is to answer two navigation questions:
 
+### Proposed Navigation Architecture
+
 ```text
-VIO:          Where am I relative to my starting point?
-Geo-location: Where am I inside the mission map?
+Camera Frames
+     +
+IMU Measurements
+     ↓
+Visual–Inertial Odometry
+     ↓
+CNN Deep Motion Prior
+     ↓
+Particle Filter Prediction
+     ↓
+Geo-Location Correction
+     ↓
+Fused Global/Local Pose
+     ↓
+GPS-Denied UAV Navigation
+```
+
+## Expected Improvement
+
+Adding VIO + geo-location can improve:
+
+Absolute scale estimation
+Long-term trajectory drift
+Return-to-home accuracy
+Map-referenced navigation
+Multi-agent coordination
+Robustness in GPS-denied environments
+Accuracy of final position and trajectory RMSE
