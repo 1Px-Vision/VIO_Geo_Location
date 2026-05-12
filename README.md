@@ -69,7 +69,7 @@ Accuracy of final position and trajectory RMSE
 
 <p align="center">
   <b>VIO + Geo-Location GPS-Denied Forest Navigation</b><br>
-  Click the image to watch the Kapwing demo video.
+  Click demo video.
 </p>
 
 <p align="center">
