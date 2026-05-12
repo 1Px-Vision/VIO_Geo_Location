@@ -2,6 +2,8 @@
 
 A Python-based autonomous navigation framework for **GPS-denied drone environments** that combines **Visual–Inertial Odometry (VIO)** with **map-based geo-location correction**.
 
+![](https://github.com/1Px-Vision/VIO_Geo_Location/blob/main/mapping_Geo.jpg)
+
 The system estimates local drone motion using a monocular/RGB-D camera and IMU, then corrects long-term drift using known landmarks, geo-referenced maps, fiducial markers, UWB anchors, RF beacons, or visual place recognition.
 
 ---
