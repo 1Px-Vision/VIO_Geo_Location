@@ -73,5 +73,5 @@ Accuracy of final position and trajectory RMSE
 </p>
 
 <p align="center">
-  <a href="https://www.kapwing.com/e/6a033f1f917c991a7529dd9d">▶ Watch on Kapwing</a>
+  <a href="https://www.kapwing.com/e/6a033f1f917c991a7529dd9d">▶ VIO + Geo-Location GPS-Denied Forest Navigation</a>
 </p>
