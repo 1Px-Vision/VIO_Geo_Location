@@ -58,20 +58,6 @@ Accuracy of final position and trajectory RMSE
 
 ![](https://github.com/1Px-Vision/VIO_Geo_Location/blob/main/Geo_Nav_1.gif)
 
-
-## Demo Video
-
-<p align="center">
-  <a href="https://github.com/1Px-Vision/VIO_Geo_Location/blob/main/Autonomous_Drone_Navigation_with_Deep_Learning_V2.mp4">
-    <img src="docs/demo_preview.png" alt="VIO + Geo-Location GPS-Denied Drone Navigation Demo" width="850">
-  </a>
-</p>
-
-<p align="center">
-  <b>VIO + Geo-Location GPS-Denied Drone Navigation</b><br>
-  Click the image to watch the demo video.
-</p>
-
 <p align="center">
   <a href="https://github.com/1Px-Vision/VIO_Geo_Location/raw/main/Autonomous_Drone_Navigation_with_Deep_Learning_V2.mp4">
     ▶ Download / Watch Raw MP4
